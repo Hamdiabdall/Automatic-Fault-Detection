@@ -1,0 +1,27 @@
+========================================
+RAPPORT INDUSTRIEL - DETECTION AUTOMATIQUE DE DEFAUTS
+========================================
+Date: 20/07/2025 - Heure: 05:58
+
+1. PERFORMANCE SYSTÈME
+----------------------
+Machine 1 - Précision: 100.00%
+Machine 2 - Précision: 94.54%
+Statut déploiement: APPROUVE
+
+2. ARCHITECTURE TECHNIQUE
+-------------------------
+- Réseau de neurones feedforward [8-15-10-1]
+- 8 indicateurs vibratoires
+- Classification binaire sain/défectueux
+- Interface utilisateur intégrée
+
+3. DONNÉES TRAITÉES
+------------------
+- Machine 1: 4 conditions (280 fichiers)
+- Machine 2: 3 conditions (210 fichiers)
+- Format: CSV timestamp + accélération
+
+4. RECOMMANDATION
+----------------
+SYSTÈME APPROUVÉ POUR DÉPLOIEMENT INDUSTRIEL
